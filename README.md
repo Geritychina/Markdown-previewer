@@ -23,7 +23,6 @@ A sleek and responsive **Markdown Previewer** built with **React**, featuring:
 - [Marked](https://marked.js.org/) – for parsing markdown
 - [DOMPurify](https://github.com/cure53/DOMPurify) – for sanitizing HTML
 - CSS Modules
-
 ---
 
 🔺Required files:
