@@ -25,7 +25,7 @@ A sleek and responsive **Markdown Previewer** built with **React**, featuring:
 - CSS Modules
 ---
 
-🔺Required files:
+🔺Required Files:
 --
 node_modules
 
