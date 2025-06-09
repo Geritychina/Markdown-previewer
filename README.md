@@ -28,5 +28,5 @@ A sleek and responsive **Markdown Previewer** built with **React**, featuring:
 🔺Required Files:
 --
 node_modules
-
+--
 Made with love by Gergana ™
